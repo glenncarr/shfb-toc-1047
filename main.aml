@@ -19,7 +19,7 @@
          If using <autoOutline />, add an address attribute to identify it
          and specify a title so that it can be jumped to with a hyperlink. -->
     <section address="Section1">
-      <title>Optional section title 1</title>
+      <title>Lengthy section title 1 xxxxxxxxxx xxxxxxxxxxxxxx</title>
       <content>
         <table>
           <tableHeader>
@@ -41,9 +41,9 @@
             <entry>Lorem ipsum dolor <link xlink:href="another_topic">another topic</link></entry>
           </row>
           <row>
-            <entry address="TransAPIDictionary_XXXXXXXXXX_XXXXXXXX">Xxxxxxxxxxxxxxxxx Xxxxxxxx</entry>
+            <entry address="TransAPIDictionary_XXXXXXXXXXXXXXXXXX_XXXXXXXX_XXXXXXXXXXX">Xxxxxxxxxxxxxxxxx Xxxxxxxx</entry>
             <entry>
-              <legacyBold>XXXXXXXXXXXXXXXXXX_XXXXXXXX</legacyBold>
+              <legacyBold>XXXXXXXXXXXXXXXXXX_XXXXXXXX_XXXXXXXXXXX</legacyBold>
             </entry>
             <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
             <entry>Praesent scelerisque</entry>
@@ -54,9 +54,9 @@
             <entry>
               <legacyBold>XXXXXXXXXX_XXXXXXXX</legacyBold>
             </entry>
-            <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+            <entry>Lorem ipsum dolor sit amet, consecteturconsecteturconsectetur adipiscing elit.</entry>
             <entry>Praesent scelerisque</entry>
-            <entry>Lorem ipsum dolor</entry>
+            <entry>Loremipsumdolor</entry>
           </row>
           <row>
             <entry address="TransAPIDictionary_XXXXXXXXXX_XXXXXXXX">Xxxxxxxxxxxxxxxxx Xxxxxxxx</entry>
