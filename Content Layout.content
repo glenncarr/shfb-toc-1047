@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic id="main" visible="True" isDefault="true" />
+  <Topic id="another_topic" visible="True" isSelected="true" />
+</Topics>
